@@ -1,0 +1,45 @@
+Visualization Plan:
+
+Data from: 
+http://data.k12.wa.us:9990/PublicDWP/Web/WashingtonWeb/DataTables/DataTablesLanding.aspx?appid=450
+Data really only consistently available through 2012-2013 school year
+Contact OSPI and ask fro 2013-2014
+
+*App or Website?
+
+Want:
+*Map of Seattle with overlay of the school attendance boundaries: 
+http://www.seattleschools.org/modules/cms/pages.phtml?sessionid=fbfb9a9089846031ff1c30da147ab3f7&pageid=322613&sessionid=fbfb9a9089846031ff1c30da147ab3f7
+*Choose elementary/middle/high schools
+
+*Can highlight an area of the map and see demographics
+	*Click for popup with additional info?
+
+*Comparison tool?
+
+Potential demographics:
+CAA/CIA -> student meets required grad (like passing HSBE, etc.)
+AP/IB
+	*Enrollment per category/combined
+Disciplinary Incidents
+Graduation Rates
+#Dropout Rates
+Number of English Language Learners
+Languages Spoken by Students At Home
+Enrollment
+Funding
+	*Per pupil general fund expenditures
+	*Total annual expenditures
+#Standardized test scores -> :(
+Special education:
+#	*Why/how many left
+#	*How many served of disability type
+	*SE students dropout and grad rates
+	*Can we find out the types of programs available?
+	*Staff trained in special ed/gifted ed
+Students eligible for free and reduced lunch
+#Student attendance
+
+# --> indicates a category I don't want to include either due to
+my educational philosophy or my judgement of whether it's
+important to visualize
