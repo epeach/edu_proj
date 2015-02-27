@@ -43,3 +43,8 @@ Students eligible for free and reduced lunch
 # --> indicates a category I don't want to include either due to
 my educational philosophy or my judgement of whether it's
 important to visualize
+
+Data I want:
+*Awards and recognitions of school/teachers
+*Arts programs
+
